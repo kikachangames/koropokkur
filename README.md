@@ -1,4 +1,4 @@
-<h1>Koropokkur Apaixonada ~O Sonho de uma Pequena Fada</h1>
+<h1>Koropokkur Apaixonada ~O Conto de uma Pequena Fada~</h1>
 <p>Patch Pt-Br (Steam)</p>
 <br/>
 <img src="https://kikachangames.github.io/koropokkur/img/cover.png">
