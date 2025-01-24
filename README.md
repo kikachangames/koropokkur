@@ -61,7 +61,7 @@ Uma jornada cheia de descobertas e emoções...</h3>
 
 <h3>Agradecimentos</h3>
 <p><a href="https://www.mangagamer.org/koropokkur/" target="_blank">MangaGamer</a></p>
-<p><a href="https://taiyakiclub.wordpress.com/" target="_blank">Taiyaki Club (tools)</a></p>
+<p><a href="https://taiyakiclub.wordpress.com/" target="_blank">Taiyaki Club</a></p>
 <p><a href="https://github.com/nesrak1/UABEA/" target="_blank">UABEA (tools)</a></p>
 
 <br/>
