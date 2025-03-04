@@ -13,11 +13,11 @@ Uma jornada cheia de descobertas e emoções...</h3>
 <p>Em algum lugar de Hokkaido fica um pequeno vilarejo de fadas, conhecidas como 'Koropokkur'. Com o passar do tempo, a aldeia proibiu seus habitantes de interagir com os humanos. No entanto, alguns jovens ficaram fascinados com o mundo humano e o contemplam através de um lago mágico. Asirrera, em particular, estava apaixonada pela lenda de uma koropokkur que se aventurou no outro mundo, tornou-se humana através da graça de Kamuy de Kanda e encontrou o grande amor de sua vida. Reunindo coragem, ela resolve quebrar as leis do vilarejo para ver esse mundo por si mesma! Infelizmente, sua falta de jeito rapidamente leva a melhor e ela arruína os últimos esforços de Satoru para salvar o maid café que administra em Akihabara. Atormentada pela culpa, ela se oferece para ajudar e acaba indo trabalhar com Satoru. Depois de ver essa situação através do lago mágico, suas amigas, Cirta e Haruante, deixam a aldeia. Embora ambas apoiem Asirrera, elas também estão preocupadas com a falta de urgência dela em cumprir seu verdadeiro objetivo...</p>
 <br/>
 
-<h3>Progresso da tradução: 12,5%</h3>
+<h3>Progresso da tradução: 25%</h3>
 
 <ul>
     <li>Capítulo 1: Encontro - 100%</li>
-    <li>Capítulo 2: Sorriso - 0%</li>
+    <li>Capítulo 2: Sorriso - 100%</li>
     <li>Capítulo 3: Amigas - 0%</li>
     <li>Capítulo 4: Esperança - 0%</li>
     <li>Capítulo 5: Renascimento - 0%</li>
@@ -75,6 +75,6 @@ Uma jornada cheia de descobertas e emoções...</h3>
 
 
 <hr>
-<p><small>Última atualização: 22/01/2025.</small></p>
+<p><small>Última atualização: 04/03/2025.</small></p>
 <p><small>Kikachan Games (Desde 2024) <a href="https://kikachangames.github.io/projetos/">Projetos</a> - <a href="https://twitter.com/kikachangames/" target="_blank">X</a> - <a href="https://discord.gg/jsm8yKtu2E" target="_blank">Discord</a> - <a href="https://kikachan-games.itch.io/" target="_blank">Itch</a></small></p>
 
