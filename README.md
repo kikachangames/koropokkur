@@ -18,7 +18,7 @@ Uma jornada cheia de descobertas e emoções...</h3>
 <ul>
     <li>Capítulo 1: Encontro - 100%</li>
     <li>Capítulo 2: Sorriso - 100%</li>
-    <li>Capítulo 3: Amigas - 25%</li>
+    <li>Capítulo 3: Amigas - 35%</li>
     <li>Capítulo 4: Esperança - 0%</li>
     <li>Capítulo 5: Renascimento - 0%</li>
     <li>Capítulo 6: Tribulação - 0%</li>
@@ -75,6 +75,6 @@ Uma jornada cheia de descobertas e emoções...</h3>
 
 
 <hr>
-<p><small>Última atualização: 15/04/2025.</small></p>
+<p><small>Última atualização: 10/05/2025.</small></p>
 <p><small>Kikachan Games (Desde 2024) <a href="https://kikachangames.github.io/projetos/">Projetos</a> - <a href="https://twitter.com/kikachangames/" target="_blank">X</a> - <a href="https://discord.gg/jsm8yKtu2E" target="_blank">Discord</a> - <a href="https://kikachan-games.itch.io/" target="_blank">Itch</a></small></p>
 
