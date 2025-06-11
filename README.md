@@ -1,5 +1,5 @@
 <h1>Koropokkur Apaixonada ~O Conto de uma Pequena Fada~</h1>
-<p>Patch Pt-Br (<a href="https://store.steampowered.com/app/915560/Koropokkur_in_Love_A_Little_Fairys_Tale" target="_blank"> Steam</a>)</p>
+<p>Patch Pt-Br (<a href="https://store.steampowered.com/app/915560/Koropokkur_in_Love_A_Little_Fairys_Tale" target="_blank">Steam</a>)</p>
 <br/>
 <img src="https://kikachangames.github.io/koropokkur/img/cover1.png">
 <br/>
