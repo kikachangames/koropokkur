@@ -69,10 +69,11 @@ Uma jornada cheia de descobertas e emoções...</h3>
 <h3>Download</h3>
 
 <p>Em breve.</p>
-
 <br/>
 <br/>
-
+<iframe src="https://store.steampowered.com/widget/915560/?t=A%20fada%20Asirrera%20quebra%20as%20regras%20do%20vilarejo%20Koropokkur%20para%20explorar%20o%20mundo%20humano.%20Ap%C3%B3s%20causar%20confus%C3%A3o%20num%20maid%20caf%C3%A9%20em%20Akihabara%2C%20ela%20se%20oferece%20para%20ajudar.%20Suas%20amigas%20Cirta%20e%20Haruante%20deixam%20a%20aldeia%20para%20apoi%C3%A1-la%2C%20mas%20se%20preocupam%20com%20sua%20falta%20de%20foco%20no%20verdadeiro%20motivo%20da%20jornada.%0A%0A" frameborder="0" width="646" height="190"></iframe>
+<br/>
+<br/>
 
 <hr>
 <p><small>Última atualização: 10/06/2025.</small></p>
