@@ -10,16 +10,16 @@ Uma jornada cheia de descobertas e emoções...</h3>
 <br/>
 
 <h3>Sinopse</h3>
-<p>Em algum lugar de Hokkaido fica um pequeno vilarejo de fadas, conhecidas como 'Koropokkur'. Com o passar do tempo, a aldeia proibiu seus habitantes de interagir com os humanos. No entanto, alguns jovens ficaram fascinados com o mundo humano e o contemplam através de um lago mágico. Asirrera, em particular, estava apaixonada pela lenda de uma koropokkur que se aventurou no outro mundo, tornou-se humana através da graça de Kamuy de Kanda e encontrou o grande amor de sua vida. Reunindo coragem, ela resolve quebrar as leis do vilarejo para ver esse mundo por si mesma! Infelizmente, sua falta de jeito rapidamente leva a melhor e ela arruína os últimos esforços de Satoru para salvar o maid café que administra em Akihabara. Atormentada pela culpa, ela se oferece para ajudar e acaba indo trabalhar com Satoru. Depois de ver essa situação através do lago mágico, suas amigas, Cirta e Haruante, deixam a aldeia. Embora ambas apoiem Asirrera, elas também estão preocupadas com a falta de urgência dela em cumprir seu verdadeiro objetivo...</p>
+<p>Em um vilarejo escondido de Hokkaido vivem as fadas Koropokkur, proibidas de se relacionar com humanos. Fascinada pelo outro mundo, Asirrera desafia essa regra para descobrir a verdade sobre uma lenda que fala de uma Koropokkur que virou humana e encontrou o amor. Ao causar sem querer problemas no maid café de Satoru em Akihabara, ela se oferece para ajudá-lo. Suas amigas, Cirta e Haruante, também deixam a aldeia, apoiando Asirrera, mas preocupadas com sua falta de foco no verdadeiro objetivo.</p>
 <br/>
 
-<h3>Progresso da tradução: 37,5%</h3>
+<h3>Progresso da tradução: 50</h3>
 
 <ul>
     <li>Capítulo 1: Encontro - 100%</li>
     <li>Capítulo 2: Sorriso - 100%</li>
     <li>Capítulo 3: Amigas - 100%</li>
-    <li>Capítulo 4: Esperança - 0%</li>
+    <li>Capítulo 4: Esperança - 100%</li>
     <li>Capítulo 5: Renascimento - 0%</li>
     <li>Capítulo 6: Tribulação - 0%</li>
     <li>Capítulo 7: Separação - 0%</li>
@@ -76,6 +76,6 @@ Uma jornada cheia de descobertas e emoções...</h3>
 <br/>
 
 <hr>
-<p><small>Última atualização: 10/06/2025.</small></p>
+<p><small>Última atualização: 03/08/2025.</small></p>
 <p><small>Kikachan Games (Desde 2024) <a href="https://kikachangames.github.io/projetos/">Projetos</a> - <a href="https://twitter.com/kikachangames/" target="_blank">X</a> - <a href="https://discord.gg/jsm8yKtu2E" target="_blank">Discord</a> - <a href="https://kikachan-games.itch.io/" target="_blank">Itch</a></small></p>
 
