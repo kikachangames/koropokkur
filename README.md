@@ -57,8 +57,18 @@ Uma jornada cheia de descobertas e emoções...</h3>
 </div>
 <br/>
 
+<div style="display:inline-block;vertical-align:top;">
+<img src="https://kikachangames.github.io/sayooshi/dudas.png">
+</div>
+<div style="display:inline-block;">
+<h3>Dudas</h3>
+  <p>Tradução</p>
+</div>
+  <br/>
+
 
 <h3>Agradecimentos</h3>
+<p><a href="https://discord.gg/Xy8wvaTYM/" target="_blank">FoxBlood Translations</a></p>
 <p><a href="https://www.mangagamer.org/koropokkur/" target="_blank">MangaGamer</a></p>
 <p><a href="https://taiyakiclub.wordpress.com/" target="_blank">Taiyaki Club</a></p>
 <p><a href="https://github.com/nesrak1/UABEA/" target="_blank">UABEA (tools)</a></p>
@@ -75,6 +85,6 @@ Uma jornada cheia de descobertas e emoções...</h3>
 <br/>
 
 <hr>
-<p><small>Última atualização: 18/01/2026.</small></p>
+<p><small>Última atualização: 20/01/2026.</small></p>
 <p><small>Kikachan Games (Desde 2024) <a href="https://kikachangames.github.io/projetos/">Projetos</a> - <a href="https://twitter.com/kikachangames/" target="_blank">X</a> - <a href="https://discord.gg/jsm8yKtu2E" target="_blank">Discord</a> - <a href="https://kikachan-games.itch.io/" target="_blank">Itch</a></small></p>
 
