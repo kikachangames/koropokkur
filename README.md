@@ -36,6 +36,7 @@ Uma jornada cheia de descobertas e emoções...</h3>
 <img src="https://kikachangames.github.io/koropokkur/img/04.png">
 <img src="https://kikachangames.github.io/koropokkur/img/05.png">
 <br/>
+<br/>
 
 <h3>Equipe</h3>
 <div>
@@ -64,8 +65,8 @@ Uma jornada cheia de descobertas e emoções...</h3>
 <h3>Dudas</h3>
   <p>Tradução</p>
 </div>
-  <br/>
-
+<br/>
+<br/>
 
 <h3>Agradecimentos</h3>
 <p><a href="https://discord.gg/Xy8wvaTYM/" target="_blank">FoxBlood Translations</a></p>
