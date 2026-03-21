@@ -1,6 +1,6 @@
-<img src="https://img.shields.io/badge/Maid%20Caf%C3%A9-Tag-ffeaa7" alt="Maid Café">
-<img src="https://img.shields.io/badge/Moege-Tag-ffb6b9" alt="Moege">
-<img src="https://img.shields.io/badge/Romcom-Tag-ff7675" alt="Romcom">
+<img src="https://img.shields.io/badge/Maid%20Caf%C3%A9-d4a373" alt="Maid Café">
+<img src="https://img.shields.io/badge/Moege-ffb3d9" alt="Moege">
+<img src="https://img.shields.io/badge/Romcom-ff6b81" alt="Romcom">
 <br/>
 
 <img src="https://kikachangames.github.io/koropokkur/img/cover1.png">
