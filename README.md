@@ -13,7 +13,7 @@ Uma jornada cheia de descobertas e emoções...</h3>
 
 <h3>Sinopse</h3>
 <p>Em um vilarejo escondido de Hokkaido vivem as fadas Koropokkur, proibidas de se relacionar com humanos. Fascinada pelo outro mundo, Asirrera desafia essa regra para descobrir a verdade sobre uma lenda que fala de uma Koropokkur que virou humana e encontrou o amor.</p>
-<p>Ao causar sem querer problemas no maid café de Satoru em Akihabara, ela se oferece para ajudá-lo. Suas amigas, Cirta e Haruante, também deixam a aldeia, apoiando Asirrera mas preocupadas com a falta de foco em seu verdadeiro objetivo.</p>
+<p>Após causar confusão no maid café de Satoru, em Akihabara, ela acaba se oferecendo para ajudá-lo. Logo, suas amigas Cirta e Haruante também deixam o vilarejo para acompanhá-la — apoiando sua decisão, mas inquietas com o quanto ela tem se afastado de seu verdadeiro propósito.</p>
 <br/>
 
 <h3>Progresso da tradução: 87,5%</h3>
