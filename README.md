@@ -3,7 +3,7 @@
 <img src="https://kikachangames.github.io/koropokkur/img/cover1.png">
 <br/>
 
-<h3>Uma pequenina mulher em uma jornada por um grande mundo.<br/>
+<h3>Uma pequenina garota em uma jornada por um grande mundo.<br/>
 Uma jornada cheia de descobertas e emoções...</h3>
 <p>Nesta página você poderá acompanhar o progresso da tradução, para a língua portuguesa, da visual novel <a href="https://vndb.org/v21433" target="_blank"> Koisuru Koropokkur</a>, lançada pela MangaGamer em 2018.</p>
 <br/>
