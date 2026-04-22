@@ -16,21 +16,8 @@ Uma jornada cheia de descobertas e emoções...</h3>
 <p>Após causar confusão no maid café de Satoru, em Akihabara, ela acaba se oferecendo para ajudá-lo. Logo, suas amigas Cirta e Haruante também deixam o vilarejo para acompanhá-la — apoiando sua decisão, mas inquietas com o quanto Asirrera tem se afastado de seu verdadeiro propósito.</p>
 <br/>
 
-<h3>Progresso da tradução: 87,5%</h3>
-
-<ul>
-    <li>Capítulo 1: Encontro - 100%</li>
-    <li>Capítulo 2: Sorriso - 100%</li>
-    <li>Capítulo 3: Amigas - 100%</li>
-    <li>Capítulo 4: Esperança - 100%</li>
-    <li>Capítulo 5: Renascimento - 100%</li>
-    <li>Capítulo 6: Tribulações - 100%</li>
-    <li>Capítulo 7: Separação - 100%</li>
-    <li>Epílogo - 0%</li>
-</ul>
-<br/>
-<h3>Lançamento</h3>
-<p>A ser anunciado.</p>
+<h3>✅ Progresso da tradução: 100%</h3>
+<h3>☕ Lançamento: 01/05/2026</h3>
 <br/>
 
 <img src="https://kikachangames.github.io/koropokkur/img/mainmenu.png">
@@ -90,6 +77,6 @@ Uma jornada cheia de descobertas e emoções...</h3>
 <br/>
 
 <hr>
-<p><small>Última atualização: 21/03/2026.</small></p>
+<p><small>Última atualização: 21/04/2026.</small></p>
 <p><small>Kikachan Games (Desde 2024) <a href="https://kikachangames.github.io/projetos/">Projetos</a> - <a href="https://twitter.com/kikachangames/" target="_blank">X</a> - <a href="https://discord.gg/jsm8yKtu2E" target="_blank">Discord</a> - <a href="https://kikachan-games.itch.io/" target="_blank">Itch</a></small></p>
 
