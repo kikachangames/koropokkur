@@ -6,7 +6,7 @@
 <img src="https://kikachangames.github.io/koropokkur/img/cover1.png">
 <br/>
 
-<h3>Uma pequenina garota em uma jornada por um grande mundo.<br/>
+<h3>Uma pequena garota em uma jornada por um grande mundo.<br/>
 Uma jornada cheia de descobertas e emoções...</h3>
 <p>Nesta página você poderá acompanhar o progresso da tradução, para a língua portuguesa, da visual novel <a href="https://vndb.org/v21433" target="_blank"> Koisuru Koropokkur</a>, lançada pela MangaGamer em 2018.</p>
 <br/>
@@ -77,6 +77,6 @@ Uma jornada cheia de descobertas e emoções...</h3>
 <br/>
 
 <hr>
-<p><small>Última atualização: 21/04/2026.</small></p>
+<p><small>Última atualização: 26/04/2026.</small></p>
 <p><small>Kikachan Games (Desde 2024) <a href="https://kikachangames.github.io/projetos/">Projetos</a> - <a href="https://twitter.com/kikachangames/" target="_blank">X</a> - <a href="https://discord.gg/jsm8yKtu2E" target="_blank">Discord</a> - <a href="https://kikachan-games.itch.io/" target="_blank">Itch</a></small></p>
 
