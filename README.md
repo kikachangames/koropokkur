@@ -17,7 +17,7 @@ Uma jornada cheia de descobertas e emoções...</h3>
 <br/>
 
 <h3>✅ Progresso da tradução: 100%</h3>
-<h3>☕ Lançamento: 01/05/2026</h3>
+<h4>☕ Lançamento: 01/05/2026</h4>
 <br/>
 
 <img src="https://kikachangames.github.io/koropokkur/img/mainmenu.png">
