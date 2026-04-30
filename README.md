@@ -32,7 +32,8 @@ Uma jornada cheia de descobertas e emoções...</h3>
 <h3>Equipe</h3>
 <div>
 <div style="display:inline-block;vertical-align:top;">
-<img src="https://kikachangames.github.io/air/manolo.png">
+<img src="https://kikachangames.github.io/air/manolo.png"
+  width="160" height="160">
 </div>
 <div style="display:inline-block;">
 <h3>Manolo-chan</h3>
@@ -42,7 +43,8 @@ Uma jornada cheia de descobertas e emoções...</h3>
 
 
 <div style="display:inline-block;vertical-align:top;">
-<img src="https://kikachangames.github.io/sayooshi/dudas.png">
+<img src="https://kikachangames.github.io/sayooshi/dudas.png"
+  width="160" height="160">
 </div>
 <div style="display:inline-block;">
 <h3>Dudas</h3>
@@ -51,7 +53,8 @@ Uma jornada cheia de descobertas e emoções...</h3>
 <br/>
 
 <div style="display:inline-block;vertical-align:top;">
-<img src="https://kikachangames.github.io/higanbana2/0mateus.png">
+<img src="https://kikachangames.github.io/higanbana2/0mateus.png"
+  width="160" height="160">
 </div>
 <div style="display:inline-block;">
   <h3>0Mateus</h3>
