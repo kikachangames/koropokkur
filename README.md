@@ -40,14 +40,6 @@ Uma jornada cheia de descobertas e emoções...</h3>
 </div>
   <br/>
 
-<div style="display:inline-block;vertical-align:top;">
-<img src="https://kikachangames.github.io/higanbana2/0mateus.png">
-</div>
-<div style="display:inline-block;">
-  <h3>0Mateus</h3>
-    <p>Game hacking e Quality check</p>
-</div>
-<br/>
 
 <div style="display:inline-block;vertical-align:top;">
 <img src="https://kikachangames.github.io/sayooshi/dudas.png">
@@ -57,6 +49,16 @@ Uma jornada cheia de descobertas e emoções...</h3>
   <p>Tradução</p>
 </div>
 <br/>
+
+<div style="display:inline-block;vertical-align:top;">
+<img src="https://kikachangames.github.io/higanbana2/0mateus.png">
+</div>
+<div style="display:inline-block;">
+  <h3>0Mateus</h3>
+    <p>Game hacking e quality check</p>
+</div>
+<br/>
+
 <br/>
 
 <h3>Agradecimentos</h3>
@@ -77,6 +79,6 @@ Uma jornada cheia de descobertas e emoções...</h3>
 <br/>
 
 <hr>
-<p><small>Última atualização: 26/04/2026.</small></p>
+<p><small>Última atualização: 29/04/2026.</small></p>
 <p><small>Kikachan Games (Desde 2024) <a href="https://kikachangames.github.io/projetos/">Projetos</a> - <a href="https://twitter.com/kikachangames/" target="_blank">X</a> - <a href="https://discord.gg/jsm8yKtu2E" target="_blank">Discord</a> - <a href="https://kikachan-games.itch.io/" target="_blank">Itch</a></small></p>
 
