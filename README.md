@@ -72,7 +72,7 @@ Uma jornada cheia de descobertas e emoções...</h3>
 
 <h3>Download patch</h3>
 <a href="https://github.com/kikachangames/koropokkur/releases/download/v1.0/Koropokkur-pt-br-1.0-win.exe"><img src="https://kikachangames.github.io/koropokkur/img/btn-win.png"></a>
-<a href="https://github.com/kikachangames/koropokkur/releases/download/v1.0/Koropokkur-pt-br-1.0-win.exe"><img src="https://kikachangames.github.io/koropokkur/img/btn-linux.png"></a>
+<a https://github.com/kikachangames/koropokkur/releases/download/v1.0/Koropokkur-pt-br-1.0-linux.zip)<img src="https://kikachangames.github.io/koropokkur/img/btn-linux.png"></a>
 
 <br/>
 <br/>
